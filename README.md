@@ -1,16 +1,18 @@
 # Crawl4AI Scraper
 
-Este repositório contém códigos para coleta de dados utilizando a biblioteca **Crawl4AI**, abordando diferentes métodos de extração.
+Este repositório contém códigos para coleta de dados utilizando a biblioteca [**Crawl4AI**](https://github.com/unclecode/crawl4ai), abordando diferentes métodos de extração.
 
 ## Instalação
 
-Antes de executar os scripts, instale as dependências e configure o ambiente:
+Antes de executar os scripts, instale as dependências e configure o ambiente segundo as [documentação do Crawl4AI](https://docs.crawl4ai.com/core/installation/):
 
 ```bash
 pip install crawl4ai && \
 crawl4ai-setup && \
 crawl4ai-doctor
 ```
+
+> Recomendado a instalação e execução com o `Python 3.11`.
 
 ## Modos de Execução
 
@@ -44,5 +46,5 @@ python app_llm.py
 
 ## Artigo Relacionado
 Este repositório faz parte do artigo onde detalho minha experiência com o **Crawl4AI**.
-Confira o artigo completo aqui: [Link para o artigo]().
+Confira o artigo completo aqui: [Link para o artigo](https://subipranuvem.hashnode.dev/testei-o-crawl4ai-e-descobri-varios-problemas).
 
