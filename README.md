@@ -46,5 +46,5 @@ python app_llm.py
 
 ## Artigo Relacionado
 Este repositório faz parte do artigo onde detalho minha experiência com o **Crawl4AI**.
-Confira o artigo completo aqui: [Link para o artigo](https://subipranuvem.hashnode.dev/testei-o-crawl4ai-e-descobri-varios-problemas).
+Confira o artigo completo [aqui](https://subipranuvem.hashnode.dev/testei-o-crawl4ai-e-descobri-varios-problemas).
 
